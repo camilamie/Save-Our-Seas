@@ -2,7 +2,7 @@ function redirectToAnotherPage(event) {
     event.preventDefault(); // Previne o envio do formulário
 
     // Abre uma nova guia com a URL especificada
-    var newWindow = window.open("index.html", "_blank"); // MUDAR ESTE URL PARA O PAGES DO INDEX 
+    var newWindow = window.open("https://camilamie.github.io/Save-Our-Seas/", "_blank"); // MUDAR ESTE URL PARA O PAGES DO INDEX 
 
     // Fecha a guia atual se a nova guia for aberta com sucesso
     if (newWindow) {
