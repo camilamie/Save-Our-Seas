@@ -19,7 +19,7 @@ Projeto com intuito em localizar e mapear litorais afetas por máterias como: Pl
 
 ##### 1) Este projeto é open source com foco apenas no aprendizado.
 ##### 2) basta acessar nossa página para testar!
-- [Save our seas](https://camilamie.github.io/SaveOurSeas/)
+- [Save our seas](https://camilamie.github.io/Save-Our-Seas/)
 
 
 ## Autores
